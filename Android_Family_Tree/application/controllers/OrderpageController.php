@@ -63,7 +63,6 @@ class OrderpageController extends Zend_Controller_Action {
 
     //テスト
     public function urlconnecttestAction(){
-        echo "できた";
     }
 
 
