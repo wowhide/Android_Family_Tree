@@ -1,0 +1,4 @@
+
+RewriteEngine on
+RewriteBase /Android_Family_Tree/
+RewriteRule !\.(js|ico|gif|jpg|png|css|html)$ index.php
